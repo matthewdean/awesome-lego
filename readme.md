@@ -1,8 +1,8 @@
 # awesome-lego
-A curated list of LEGO resources for enthusiasts
+A curated list of awesome LEGO resources for enthusiasts
 
 ## LEGO Games
-- [**Bits N' Bricks**](http://web.archive.org/web/20210127113928/https://www.lego.com/en-gb/aboutus/news/2020/december/lego-games-25-anniversary/) - official LEGO games podcast
+- [**Bits N' Bricks**](http://web.archive.org/web/20210127113928/https://www.lego.com/en-gb/aboutus/news/2020/december/lego-games-25-anniversary/) - history of LEGO games podcast, commissioned by the LEGO Group
     - [Episode 0-28 transcripts](https://www.lego.com/en-us/legogames-25-subpage)
     - [Episode 29-50 transcripts](https://www.lego.com/en-us/legogames-25-transcripts)
 - [Bricks to Bytes](https://brickstobytes.org/) - development of LEGO games
@@ -11,7 +11,7 @@ A curated list of LEGO resources for enthusiasts
 - [LEGO Games Wiki at Fandom](https://legogames.fandom.com/wiki/Main_Page)
 - [LEGO Universe Wiki at Fandom](https://legouniverse.fandom.com/wiki/LEGO_Universe_Wiki)
 - [LEGO games at MobyGames](https://www.mobygames.com/company/3612/lego-system-as/games/) - most comprehensive database of electronic games
-- [Rock Raiders United](https://rockraidersunited.com/) - LEGO games fan community
+- [Rock Raiders United](https://rockraidersunited.com/) - defunct LEGO games fan forum
 
 ### LEGO Game Developers
 - [**Templar**](https://www.templar.com/)

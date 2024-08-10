@@ -1,18 +1,19 @@
 # awesome-lego
 A curated list of LEGO resources for enthusiasts
 
-## Games
+## LEGO Games
 - [**Bits N' Bricks**](http://web.archive.org/web/20210127113928/https://www.lego.com/en-gb/aboutus/news/2020/december/lego-games-25-anniversary/) - official LEGO games podcast
     - [Episode 0-28 transcripts](https://www.lego.com/en-us/legogames-25-subpage)
     - [Episode 29-50 transcripts](https://www.lego.com/en-us/legogames-25-transcripts)
 - [Bricks to Bytes](https://brickstobytes.org/) - development of LEGO games
 - [LEGO Games at The Cutting Room Floor](https://tcrf.net/Category:LEGO_series)
+- [LEGO Game Prototypes at Hidden Place](https://hiddenpalace.org/w/index.php?search=lego)
 - [LEGO Games Wiki at Fandom](https://legogames.fandom.com/wiki/Main_Page)
 - [LEGO Universe Wiki at Fandom](https://legouniverse.fandom.com/wiki/LEGO_Universe_Wiki)
 - [LEGO games at MobyGames](https://www.mobygames.com/company/3612/lego-system-as/games/) - most comprehensive database of electronic games
 - [Rock Raiders United](https://rockraidersunited.com/) - LEGO games fan community
 
-### Game Developers
+### LEGO Game Developers
 - [**Templar**](https://www.templar.com/)
 - [**Gamelab**](https://web.archive.org/web/19981212014140/http://gamelab.com/)
     - [Gamelab portfolio](https://web.archive.org/web/20060305221000/http://www.gmlb.com/games.html)
@@ -24,7 +25,7 @@ A curated list of LEGO resources for enthusiasts
     - [Blockdot games at Kongregrate](https://www.kongregate.com/accounts/blockdotgames)
     - [Blockdot at YouTube](https://www.youtube.com/@blockdotgames)
 
-### Web Games
+### LEGO Web Games
 - LEGO Website Games pages: [2000-03](https://web.archive.org/web/20000301035851/http://www.lego.com/action/games.asp), [2001-12](https://web.archive.org/web/20011213222657/http://www.lego.com/games/), [2002-02](https://web.archive.org/web/20020206071222/http://www.lego.com/GAMES/), [2002-06](https://web.archive.org/web/20020602082321/lego.com/games), [2003-01](https://web.archive.org/web/20030102222151/http://www.lego.com/GAMES/), [2003-03](https://web.archive.org/web/20030321094702/http://www.lego.com/eng/play/games/), [2005-04](https://web.archive.org/web/20050404023532/http://club.lego.com/eng/games/default.asp), [2006-04](https://web.archive.org/web/20060408105736/http://club.lego.com/eng/games/default.asp?mode=1), [2007-04](https://web.archive.org/web/20070408202900/http://club.lego.com/eng/games/default.asp?mode=1), [2007-06](https://web.archive.org/web/20070609163612/http://club.lego.com/eng/games/default.asp), [2008-06](https://web.archive.org/web/20080626231927/http://play.lego.com/en-US/games/default.aspx), [2009-06](https://web.archive.org/web/20090621162145/http://play.lego.com/en-US/games/default.aspx), [2010-06](https://web.archive.org/web/20100621040515/http://play.lego.com/en-US/games/default.aspx), [2013-05](https://web.archive.org/web/20130512062441/http://www.lego.com/en-us/games/), [2014-01](https://web.archive.org/web/20140122085900/http://www.lego.com/en-us/games/), [2011-06](https://web.archive.org/web/20110601080132/http://play.lego.com/en-US/default.aspx)
 - **Ninjago Web Games**
     - [Ninjago games](https://web.archive.org/web/20130515120038/http://ninjago.lego.com/en-us/gamesandmovies/default.aspx) at Cartoon Network in 2013
@@ -39,7 +40,7 @@ A curated list of LEGO resources for enthusiasts
 - [Flashpoint](https://flashpointproject.github.io/flashpoint-database/search/) - archive and player for Flash content
 - [LEGO games at Flash Museum](https://flashmuseum.org/?s=lego)
 
-### Community Contributions
+### Fan Game Remakes and Tools
 - **LEGO Island**
     - [MattKC's LEGO Island Rebuilder](https://github.com/isledecomp/LEGOIslandRebuilder) -  launcher and mod/patch tool 
 - **Spybotics: The Nightfall Incident**
@@ -61,10 +62,10 @@ A curated list of LEGO resources for enthusiasts
 - **Rock Raiders**
     - [Baraklava's Manic Miners](https://baraklava.itch.io/manic-miners) - modern remake
 
-## Software
-- [Project Brick](https://biomediaproject.com/bmp/lmp/) - most abandoned LEGO software
+## LEGO Software
+- [Project Brick](https://biomediaproject.com/bmp/lmp/) - archive of abandoned LEGO software
 
-## Websites
+## LEGO Websites
 - **LEGO.com**
   - [lego.com](https://web.archive.org/web/19961109092233/http://www.lego.com/) - LEGO website from 1995-present
   - [lego.dk](https://web.archive.org/web/19990422194749/http://www.lego.dk/dk/default.asp) - Danish LEGO website from 1999-2000
@@ -144,6 +145,8 @@ A curated list of LEGO resources for enthusiasts
 - [SPU-Darwin](https://www.spu-darwin.org/) - internal newsletter and recollections by former members
 
 ## Themes
+- **Rock Raiders**
+    - [Merely's Rock Raiders Archive](https://rockraidersarchive.com/)
 - **Star Wars**
     - [LEGO Star Wars Wiki at Fandom](https://legostarwars.fandom.com/wiki/Lego_Star_Wars_Wiki)
 - **Ninjago**
@@ -155,13 +158,17 @@ A curated list of LEGO resources for enthusiasts
 - **Life on Mars**
     - [Biodium Archive](https://biodiumvault.wordpress.com/) - fan-made archive of Life on Mars media
 
+## Sets
+- [Brickset](https://brickset.com/)
+- [RR Slugger's YouTube videos](https://www.youtube.com/@RRSlugger/videos)
+
 ## Wikis
 - [Research Realm](https://wiki.researchrealm.net/index.php/Main_Page) - games, designers, prototypes
 - [Brickipedia at Fandom](https://brickipedia.fandom.com/)
 - [Brickipedia](https://en.brickimedia.org/wiki/Main_Page) - forked from Fandom, inactive
 - [Brickwiki](https://brickwiki.org/) - broken
 
-## Forums
+## Fan Communities
 - [LUGNET](https://news.lugnet.com/)
 - [BZPower](https://www.bzpower.com/index.php)
 - [rec.toys.lego](https://groups.google.com/g/rec.toys.lego/) - old Usenet group

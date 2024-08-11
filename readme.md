@@ -5,6 +5,7 @@ A curated list of awesome LEGO resources for enthusiasts
 - [**Bits N' Bricks**](http://web.archive.org/web/20210127113928/https://www.lego.com/en-gb/aboutus/news/2020/december/lego-games-25-anniversary/) - history of LEGO games podcast, commissioned by the LEGO Group
     - [Episode 0-28 transcripts](https://www.lego.com/en-us/legogames-25-subpage)
     - [Episode 29-50 transcripts](https://www.lego.com/en-us/legogames-25-transcripts)
+- [LEGO Game Downloads at Bio Media Project's file server](https://files.maskofdestiny.com/LEGO/gms/LEGOgames.html)
 - [Bricks to Bytes](https://brickstobytes.org/) - development of LEGO games
 - [LEGO Games at The Cutting Room Floor](https://tcrf.net/Category:LEGO_series)
 - [LEGO Game Prototypes at Hidden Place](https://hiddenpalace.org/w/index.php?search=lego)
@@ -139,10 +140,32 @@ A curated list of awesome LEGO resources for enthusiasts
 - [services.lego.com](https://web.archive.org/web/*/http://services.lego.com/*) - game services from 2008-2012
 
 ## LEGO Employee/Contractor Work
+- Mike Rayhawk - prolific LEGO illustrator
+  - [Mike Rayhawk's portfolio](https://www.mikerayhawk.com/index.html)
+  - [LEGO Playthemes from 2016](https://www.mikerayhawk.com/2016/playthemes.htm)
 - [Oliver Wallington's portfolio](https://drive.google.com/file/d/1LWCwvt8WP-fNqeTY56ze-LoPcsx1ctqJ/view) - Slizer and web games
 - [Dan Ferguson's portfolio](https://www.behance.net/danferguson) - websites and web games
-- [Andrew Deegan's concepts and prototypes](https://andrewdeegandesign.com/index.php/toys/)
+- [Andrew Deegan's concepts and set prototypes](https://andrewdeegandesign.com/index.php/toys/)
 - [SPU-Darwin](https://www.spu-darwin.org/) - internal newsletter and recollections by former members
+- [Primeau Illustration's portfolio](https://web.archive.org/web/20150906155017/http://www.primeauillustration.com/pages/portfolio_elect.html) - Sports, Racers, Creator, Dino Attack, Star Wars, Designer...
+- [Marcus Muller's LEGO Batman comic illustrations at DeviantArt](https://www.deviantart.com/marcusmuller/gallery/25122932/batman-lego)
+- [Toby Harrison-Banfield's LEGO Island 2 models at Behance](https://www.behance.net/gallery/1468073/Lego-Island-2)
+- Dan Veesenmeyer
+    - [Dan Veesenmeyer's DeviantArt](https://www.deviantart.com/danveesenmeyer/gallery)
+    - [Dan Veesenmeyer's portfolio](http://dansartwork.com/clubmag)
+- [Sean Wang's portfolio](http://www.seanwang.com/illus_lego/
+- [James Zhang's portfolio](https://www.artstation.com/artwork/J9O0Nv)
+- [Robert King's Monster Fighters animated promo video](https://roblking.com/lego-monster-fighters-video)
+- [Scott Muska's portfolio](https://www.scottmuska.com/the-legoland-times-advertising)
+- [Rich Whelchel's portfolio](https://richwhelchel.com/The-Legoland-Times-1)
+- [Advance's website](https://www.advance.dk/cases/lego/)
+- [Ghost's archived website](https://web.archive.org/web/20070715074044/http://www.ghost.dk/index/dansk/galleri/LEGO%20Bionicle%20Arkiv)
+
+## Media
+- [Emily's LEGO Realm fan site](https://emilyinternet.zone/realm/)
+- [LEGO Media at Bio Media Project's file server](https://index.maskofdestiny.com/LEGO/)
+- [LEGO Catalogs at Internet Archive](https://archive.org/details/legocatalogs)
+- [LEGO Magazines at Internet Archive](https://archive.org/details/lego-magazines)
 
 ## Themes
 - **Rock Raiders**
@@ -155,12 +178,17 @@ A curated list of awesome LEGO resources for enthusiasts
     - [Bio Media Project](https://biomediaproject.com/bmp/) - nearly all Bionicle media
     - [BS01](https://biosector01.com/)
     - [The Great Archives](https://thegreatarchives.com/)
+    - [Emily's Bionicle chronicle fan site](https://bionicle.gay/chronicle/)
 - **Life on Mars**
     - [Biodium Archive](https://biodiumvault.wordpress.com/) - fan-made archive of Life on Mars media
+- **Adventurers**
+    - [Adventurers 1998 from StoneWars](https://www.stonewars.de/wissenswertes/lego-adventurers-von-1998/)
+    - [Adventurers fan site at Geocities](https://www.oocities.org/enchantedforest/cottage/5900/Adventurers.html)
 
 ## Sets
 - [Brickset](https://brickset.com/)
 - [RR Slugger's YouTube videos](https://www.youtube.com/@RRSlugger/videos)
+- [LEGO Instructions at Brickfactory](https://www.brickfactory.info/)
 
 ## Wikis
 - [Research Realm](https://wiki.researchrealm.net/index.php/Main_Page) - games, designers, prototypes

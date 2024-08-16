@@ -1,5 +1,5 @@
-# awesome-lego
-A curated list of awesome LEGO resources for enthusiasts
+# awesome-lego-history
+A curated list of awesome historical LEGO resources for enthusiasts
 
 ## LEGO Games
 - [**Bits N' Bricks**](http://web.archive.org/web/20210127113928/https://www.lego.com/en-gb/aboutus/news/2020/december/lego-games-25-anniversary/) - history of LEGO games podcast, commissioned by the LEGO Group

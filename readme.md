@@ -1,7 +1,7 @@
 # awesome-lego-history
 A curated list of awesome historical LEGO resources for enthusiasts
 
-## LEGO Games
+## LEGO Video Games
 - [**Bits N' Bricks**](http://web.archive.org/web/20210127113928/https://www.lego.com/en-gb/aboutus/news/2020/december/lego-games-25-anniversary/) - history of LEGO games podcast, commissioned by the LEGO Group
     - [Episode 0-28 transcripts](https://www.lego.com/en-us/legogames-25-subpage)
     - [Episode 29-50 transcripts](https://www.lego.com/en-us/legogames-25-transcripts)
@@ -13,6 +13,10 @@ A curated list of awesome historical LEGO resources for enthusiasts
 - [LEGO Universe Wiki at Fandom](https://legouniverse.fandom.com/wiki/LEGO_Universe_Wiki)
 - [LEGO games at MobyGames](https://www.mobygames.com/company/3612/lego-system-as/games/) - most comprehensive database of electronic games
 - [Rock Raiders United](https://rockraidersunited.com/) - defunct LEGO games fan forum
+- **LEGO DC Super-Villains**
+  - [Digital prototypes of Joker's big rig and large tree](https://www.coroflot.com/scottleylandart/Travellers-Tales) by Scott Leyland
+- **Racers**
+  - [Drome Racers concept art and HUD designs](https://www.coroflot.com/matthewstephen/Lego-Drome-Racers) by Matthew Stephen
 
 ### LEGO Game Developers
 - [**Templar**](https://www.templar.com/)
@@ -40,6 +44,16 @@ A curated list of awesome historical LEGO resources for enthusiasts
     - [Racers Games at 2013 lego.com](https://web.archive.org/web/20130513103437/http://racers.lego.com/en-US/Games/Default.aspx)
 - [Flashpoint](https://flashpointproject.github.io/flashpoint-database/search/) - archive and player for Flash content
 - [LEGO games at Flash Museum](https://flashmuseum.org/?s=lego)
+- **Alpha Team**
+  - [Oliver Wallington's portfolio of Alpha Team web games](https://www.coroflot.com/p/594503)
+- **Alien Conquest**
+  - [Invasion From Planet X2½ portfolio by Dan Ferguson](https://www.coroflot.com/itzaferg/LEGO-Alien-Conquest)
+
+### LEGO Apps
+- **Creator Apps**
+  - [Creationary Mobile App portfolio by Dan Ferguson](https://www.coroflot.com/itzaferg/LEGO-Creationary-Mobile-App)
+- **Ninjago Apps**
+  - [Ninjago Video Dojo iOS App portfolio by Dan Ferguson](https://www.coroflot.com/itzaferg/LEGO-Ninjago-Video-Dojo-iPhone-and-iPad-App)
 
 ### Fan Game Remakes and Tools
 - **LEGO Island**
@@ -160,6 +174,12 @@ A curated list of awesome historical LEGO resources for enthusiasts
 - [Rich Whelchel's portfolio](https://richwhelchel.com/The-Legoland-Times-1)
 - [Advance's website](https://www.advance.dk/cases/lego/)
 - [Ghost's archived website](https://web.archive.org/web/20070715074044/http://www.ghost.dk/index/dansk/galleri/LEGO%20Bionicle%20Arkiv)
+- Carola Lucia's portfolio
+  - [The Monsterland Tales](https://www.coroflot.com/rolanda/The-Monsterland-Tales)
+  - [Spinjitzu Spinball](https://www.coroflot.com/rolanda/Spinjitzu-Spinball)
+  - [Pirates of the Carribean Minigames](https://www.coroflot.com/rolanda/Pirates-of-the-Caribbean-Minigames)
+- [Darío Georges's QB9 gallery](https://www.behance.net/gallery/14291753/QB9) including Spinjitzu Spinball, Grand Prix
+- [Santiago Perez Lamas's portfolio of Ninjago Rebooted](https://www.coroflot.com/splmultimedia/Lego-Ninjago-Rebooted)
 
 ## Media
 - [Emily's LEGO Realm fan site](https://emilyinternet.zone/realm/)
@@ -184,6 +204,12 @@ A curated list of awesome historical LEGO resources for enthusiasts
 - **Adventurers**
     - [Adventurers 1998 from StoneWars](https://www.stonewars.de/wissenswertes/lego-adventurers-von-1998/)
     - [Adventurers fan site at Geocities](https://www.oocities.org/enchantedforest/cottage/5900/Adventurers.html)
+- **Duplo MyBots**
+  - [Oliver Wallington's portfolio of MyBot](https://www.coroflot.com/ojwallington/LEGO-Duplo-Mybot)
+- **Slizer**
+  - [Oliver Wallington's portfolio of Slizer](https://www.coroflot.com/p/594500)
+- **Fusion**
+  - https://www.coroflot.com/charliedavidson/Portfolio1
 
 ## Sets
 - [Brickset](https://brickset.com/)

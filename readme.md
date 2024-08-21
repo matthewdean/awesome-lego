@@ -83,7 +83,9 @@ A curated list of awesome historical LEGO resources for enthusiasts
 ## LEGO Websites
 - **LEGO.com**
   - [lego.com](https://web.archive.org/web/19961109092233/http://www.lego.com/) - LEGO website from 1995-present
+  - lego.co.uk - British LEGO website from 1998
   - [lego.dk](https://web.archive.org/web/19990422194749/http://www.lego.dk/dk/default.asp) - Danish LEGO website from 1999-2000
+  - [lego.es](https://web.archive.org/web/20000304061405/http://www.lego.es/) - Spanish LEGO website in 2000
   - [lego.net](http://web.archive.org/web/20080705014725/http://www.lego.net/) - Mirror of LEGO website from 2000-2008
   - [club.lego.com](https://web.archive.org/web/20030330173744/http://club.lego.com/) - LEGO Club member website from 2000-2014
 
@@ -146,6 +148,12 @@ A curated list of awesome historical LEGO resources for enthusiasts
 
 - **Ambassador Network**
   - [lan.lego.com](https://lan.lego.com/) - LEGO Ambassador Network website
+
+- **LEGO Education**
+  - [legoeducation.us](https://education.lego.com/en-us/)
+
+- **Miscellaneous**
+  - [The LEGO Group's HackerOne page](https://hackerone.com/lego_group?type=team) which lists domains in scope of their bug bounty program
 
 ## Web Services
 - [cache.lego.com](https://web.archive.org/web/*/cache.lego.com*) - website static files from 2002-present

@@ -29,6 +29,8 @@ A curated list of awesome historical LEGO resources for enthusiasts
 - **Blockdot**
     - [Blockdot games at Kongregrate](https://www.kongregate.com/accounts/blockdotgames)
     - [Blockdot at YouTube](https://www.youtube.com/@blockdotgames)
+- **QB9 Entertainment**
+    - - [Video Games: More Than Just A Game - The Unknown Successes of Latin American and Caribbean Studios](https://publications.iadb.org/publications/english/document/video_games_more_than_just_a_game_en.pdf) - includes LEGO web games by QB9 entertainment
 
 ### LEGO Web Games
 - LEGO Website Games pages: [2000-03](https://web.archive.org/web/20000301035851/http://www.lego.com/action/games.asp), [2001-12](https://web.archive.org/web/20011213222657/http://www.lego.com/games/), [2002-02](https://web.archive.org/web/20020206071222/http://www.lego.com/GAMES/), [2002-06](https://web.archive.org/web/20020602082321/lego.com/games), [2003-01](https://web.archive.org/web/20030102222151/http://www.lego.com/GAMES/), [2003-03](https://web.archive.org/web/20030321094702/http://www.lego.com/eng/play/games/), [2005-04](https://web.archive.org/web/20050404023532/http://club.lego.com/eng/games/default.asp), [2006-04](https://web.archive.org/web/20060408105736/http://club.lego.com/eng/games/default.asp?mode=1), [2007-04](https://web.archive.org/web/20070408202900/http://club.lego.com/eng/games/default.asp?mode=1), [2007-06](https://web.archive.org/web/20070609163612/http://club.lego.com/eng/games/default.asp), [2008-06](https://web.archive.org/web/20080626231927/http://play.lego.com/en-US/games/default.aspx), [2009-06](https://web.archive.org/web/20090621162145/http://play.lego.com/en-US/games/default.aspx), [2010-06](https://web.archive.org/web/20100621040515/http://play.lego.com/en-US/games/default.aspx), [2013-05](https://web.archive.org/web/20130512062441/http://www.lego.com/en-us/games/), [2014-01](https://web.archive.org/web/20140122085900/http://www.lego.com/en-us/games/), [2011-06](https://web.archive.org/web/20110601080132/http://play.lego.com/en-US/default.aspx)
@@ -74,6 +76,7 @@ A curated list of awesome historical LEGO resources for enthusiasts
     - [ben221199's LR1](https://github.com/ben221199/LR1) - Java modding utility
 - **LEGO Universe**
     - [Darkflame Universe's Darkflame Server](https://github.com/DarkflameUniverse/DarkflameServer) - server emulator
+    - [LU Development Network](https://lu-dev.net/) - resources and information
 - **Rock Raiders**
     - [Baraklava's Manic Miners](https://baraklava.itch.io/manic-miners) - modern remake
 

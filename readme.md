@@ -191,6 +191,8 @@ A curated list of awesome historical LEGO resources for enthusiasts
   - [Pirates of the Carribean Minigames](https://www.coroflot.com/rolanda/Pirates-of-the-Caribbean-Minigames)
 - [Darío Georges's QB9 gallery](https://www.behance.net/gallery/14291753/QB9) including Spinjitzu Spinball, Grand Prix
 - [Santiago Perez Lamas's portfolio of Ninjago Rebooted](https://www.coroflot.com/splmultimedia/Lego-Ninjago-Rebooted)
+- [Paul Lee's flickr gallery of LEGO Magazine comics](https://www.flickr.com/photos/artpoly/albums/72157626087344526)
+- [daveisblue's concept art for LEGO Universe](https://www.deviantart.com/daveisblue/gallery/50997526/lego-universe)
 
 ## Media
 - [Emily's LEGO Realm fan site](https://emilyinternet.zone/realm/)
